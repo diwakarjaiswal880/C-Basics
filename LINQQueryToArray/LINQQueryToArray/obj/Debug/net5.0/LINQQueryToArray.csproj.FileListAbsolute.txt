@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\LINQQueryToArray.exe
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\LINQQueryToArray.deps.json
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\LINQQueryToArray.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\LINQQueryToArray.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\LINQQueryToArray.dll
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\ref\LINQQueryToArray.dll
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\bin\Debug\net5.0\LINQQueryToArray.pdb
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.dll
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\ref\LINQQueryToArray.dll
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.pdb
+C:\Users\diwjaisw\source\repos\LINQQueryToArray\LINQQueryToArray\obj\Debug\net5.0\LINQQueryToArray.genruntimeconfig.cache
