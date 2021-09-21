@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ExampleWithSynchronisation.exe
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ExampleWithSynchronisation.deps.json
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ExampleWithSynchronisation.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ExampleWithSynchronisation.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ExampleWithSynchronisation.dll
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ref\ExampleWithSynchronisation.dll
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\bin\Debug\net5.0\ExampleWithSynchronisation.pdb
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.dll
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ref\ExampleWithSynchronisation.dll
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.pdb
+C:\Users\diwjaisw\source\repos\ExampleWithSynchronisation\ExampleWithSynchronisation\obj\Debug\net5.0\ExampleWithSynchronisation.genruntimeconfig.cache
