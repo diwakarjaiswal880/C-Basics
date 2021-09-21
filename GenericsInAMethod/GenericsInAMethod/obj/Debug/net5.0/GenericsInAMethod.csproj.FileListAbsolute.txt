@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\GenericsInAMethod.exe
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\GenericsInAMethod.deps.json
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\GenericsInAMethod.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\GenericsInAMethod.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\GenericsInAMethod.dll
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\ref\GenericsInAMethod.dll
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\bin\Debug\net5.0\GenericsInAMethod.pdb
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.dll
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\ref\GenericsInAMethod.dll
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.pdb
+C:\Users\diwjaisw\source\repos\GenericsInAMethod\GenericsInAMethod\obj\Debug\net5.0\GenericsInAMethod.genruntimeconfig.cache
