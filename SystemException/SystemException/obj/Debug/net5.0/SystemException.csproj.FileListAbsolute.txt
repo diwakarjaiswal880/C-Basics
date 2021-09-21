@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\SystemException.exe
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\SystemException.deps.json
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\SystemException.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\SystemException.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\SystemException.dll
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\ref\SystemException.dll
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\bin\Debug\net5.0\SystemException.pdb
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.dll
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\ref\SystemException.dll
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.pdb
+C:\Users\diwjaisw\source\repos\SystemException\SystemException\obj\Debug\net5.0\SystemException.genruntimeconfig.cache
