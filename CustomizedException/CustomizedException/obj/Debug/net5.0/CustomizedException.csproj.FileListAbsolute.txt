@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\CustomizedException.exe
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\CustomizedException.deps.json
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\CustomizedException.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\CustomizedException.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\CustomizedException.dll
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\ref\CustomizedException.dll
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\bin\Debug\net5.0\CustomizedException.pdb
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.dll
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\ref\CustomizedException.dll
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.pdb
+C:\Users\diwjaisw\source\repos\CustomizedException\CustomizedException\obj\Debug\net5.0\CustomizedException.genruntimeconfig.cache
