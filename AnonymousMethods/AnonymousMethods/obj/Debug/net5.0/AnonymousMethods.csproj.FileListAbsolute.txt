@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.exe
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.deps.json
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.dll
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\ref\AnonymousMethods.dll
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\bin\Debug\net5.0\AnonymousMethods.pdb
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.dll
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\ref\AnonymousMethods.dll
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.pdb
+C:\Users\diwjaisw\source\repos\AnonymousMethods\AnonymousMethods\obj\Debug\net5.0\AnonymousMethods.genruntimeconfig.cache
