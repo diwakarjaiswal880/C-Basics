@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\Destructors.exe
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\Destructors.deps.json
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\Destructors.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\Destructors.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\Destructors.dll
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\ref\Destructors.dll
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\bin\Debug\net5.0\Destructors.pdb
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.dll
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\ref\Destructors.dll
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.pdb
+C:\Users\diwjaisw\source\repos\Destructors\Destructors\obj\Debug\net5.0\Destructors.genruntimeconfig.cache
