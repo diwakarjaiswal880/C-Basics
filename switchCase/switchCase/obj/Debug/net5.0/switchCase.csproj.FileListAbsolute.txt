@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\switchCase.exe
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\switchCase.deps.json
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\switchCase.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\switchCase.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\switchCase.dll
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\ref\switchCase.dll
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\bin\Debug\net5.0\switchCase.pdb
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.dll
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\ref\switchCase.dll
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.pdb
+C:\Users\diwjaisw\source\repos\switchCase\switchCase\obj\Debug\net5.0\switchCase.genruntimeconfig.cache

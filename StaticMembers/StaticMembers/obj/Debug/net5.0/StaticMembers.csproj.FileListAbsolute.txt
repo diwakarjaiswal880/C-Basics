@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\StaticMembers.exe
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\StaticMembers.deps.json
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\StaticMembers.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\StaticMembers.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\StaticMembers.dll
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\ref\StaticMembers.dll
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\bin\Debug\net5.0\StaticMembers.pdb
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.dll
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\ref\StaticMembers.dll
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.pdb
+C:\Users\diwjaisw\source\repos\StaticMembers\StaticMembers\obj\Debug\net5.0\StaticMembers.genruntimeconfig.cache
