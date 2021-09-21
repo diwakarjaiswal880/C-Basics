@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.exe
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.deps.json
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.dll
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\ref\OutParameter.dll
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\bin\Debug\net5.0\OutParameter.pdb
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.dll
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\ref\OutParameter.dll
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.pdb
+C:\Users\diwjaisw\source\repos\OutParameter\OutParameter\obj\Debug\net5.0\OutParameter.genruntimeconfig.cache
