@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\Events.exe
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\Events.deps.json
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\Events.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\Events.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\Events.dll
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\ref\Events.dll
+C:\Users\diwjaisw\source\repos\Events\Events\bin\Debug\net5.0\Events.pdb
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.dll
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\ref\Events.dll
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.pdb
+C:\Users\diwjaisw\source\repos\Events\Events\obj\Debug\net5.0\Events.genruntimeconfig.cache
