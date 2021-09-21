@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.exe
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.deps.json
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.dll
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\ref\CallByValue.dll
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\bin\Debug\net5.0\CallByValue.pdb
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.dll
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\ref\CallByValue.dll
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.pdb
+C:\Users\diwjaisw\source\repos\CallByValue\CallByValue\obj\Debug\net5.0\CallByValue.genruntimeconfig.cache
