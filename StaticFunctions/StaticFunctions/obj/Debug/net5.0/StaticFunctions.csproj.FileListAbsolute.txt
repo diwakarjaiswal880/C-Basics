@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\StaticFunctions.exe
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\StaticFunctions.deps.json
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\StaticFunctions.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\StaticFunctions.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\StaticFunctions.dll
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\ref\StaticFunctions.dll
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\bin\Debug\net5.0\StaticFunctions.pdb
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.dll
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\ref\StaticFunctions.dll
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.pdb
+C:\Users\diwjaisw\source\repos\StaticFunctions\StaticFunctions\obj\Debug\net5.0\StaticFunctions.genruntimeconfig.cache
