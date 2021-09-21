@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ReadInputFromUser.exe
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ReadInputFromUser.deps.json
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ReadInputFromUser.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ReadInputFromUser.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ReadInputFromUser.dll
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ref\ReadInputFromUser.dll
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\bin\Debug\net5.0\ReadInputFromUser.pdb
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.dll
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ref\ReadInputFromUser.dll
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.pdb
+C:\Users\diwjaisw\source\repos\ReadInputFromUser\ReadInputFromUser\obj\Debug\net5.0\ReadInputFromUser.genruntimeconfig.cache

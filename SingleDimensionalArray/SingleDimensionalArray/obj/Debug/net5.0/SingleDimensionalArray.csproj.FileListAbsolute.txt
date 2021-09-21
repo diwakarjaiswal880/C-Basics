@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\SingleDimensionalArray.exe
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\SingleDimensionalArray.deps.json
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\SingleDimensionalArray.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\SingleDimensionalArray.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\SingleDimensionalArray.dll
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\ref\SingleDimensionalArray.dll
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\bin\Debug\net5.0\SingleDimensionalArray.pdb
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.dll
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\ref\SingleDimensionalArray.dll
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.pdb
+C:\Users\diwjaisw\source\repos\SingleDimensionalArray\SingleDimensionalArray\obj\Debug\net5.0\SingleDimensionalArray.genruntimeconfig.cache
