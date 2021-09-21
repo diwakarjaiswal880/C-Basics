@@ -1,0 +1,16 @@
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\SingleLevelInheritance.exe
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\SingleLevelInheritance.deps.json
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\SingleLevelInheritance.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\SingleLevelInheritance.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\SingleLevelInheritance.dll
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\ref\SingleLevelInheritance.dll
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\bin\Debug\net5.0\SingleLevelInheritance.pdb
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.csproj.AssemblyReference.cache
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.dll
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\ref\SingleLevelInheritance.dll
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.pdb
+C:\Users\diwjaisw\source\repos\SingleLevelInheritance\SingleLevelInheritance\obj\Debug\net5.0\SingleLevelInheritance.genruntimeconfig.cache
