@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\FinallyBlockExecption.exe
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\FinallyBlockExecption.deps.json
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\FinallyBlockExecption.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\FinallyBlockExecption.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\FinallyBlockExecption.dll
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\ref\FinallyBlockExecption.dll
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\bin\Debug\net5.0\FinallyBlockExecption.pdb
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.dll
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\ref\FinallyBlockExecption.dll
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.pdb
+C:\Users\diwjaisw\source\repos\FinallyBlockExecption\FinallyBlockExecption\obj\Debug\net5.0\FinallyBlockExecption.genruntimeconfig.cache

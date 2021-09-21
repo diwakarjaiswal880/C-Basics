@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\GenericsInAClass.exe
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\GenericsInAClass.deps.json
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\GenericsInAClass.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\GenericsInAClass.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\GenericsInAClass.dll
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\ref\GenericsInAClass.dll
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\bin\Debug\net5.0\GenericsInAClass.pdb
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.dll
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\ref\GenericsInAClass.dll
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.pdb
+C:\Users\diwjaisw\source\repos\GenericsInAClass\GenericsInAClass\obj\Debug\net5.0\GenericsInAClass.genruntimeconfig.cache
