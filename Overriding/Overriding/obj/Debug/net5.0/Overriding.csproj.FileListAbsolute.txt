@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\Overriding.exe
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\Overriding.deps.json
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\Overriding.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\Overriding.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\Overriding.dll
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\ref\Overriding.dll
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\bin\Debug\net5.0\Overriding.pdb
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.dll
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\ref\Overriding.dll
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.pdb
+C:\Users\diwjaisw\source\repos\Overriding\Overriding\obj\Debug\net5.0\Overriding.genruntimeconfig.cache

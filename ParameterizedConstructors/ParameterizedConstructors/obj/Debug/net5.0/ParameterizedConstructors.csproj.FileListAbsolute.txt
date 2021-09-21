@@ -1,0 +1,15 @@
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ParameterizedConstructors.exe
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ParameterizedConstructors.deps.json
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ParameterizedConstructors.runtimeconfig.json
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ParameterizedConstructors.runtimeconfig.dev.json
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ParameterizedConstructors.dll
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ref\ParameterizedConstructors.dll
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\bin\Debug\net5.0\ParameterizedConstructors.pdb
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.AssemblyInfoInputs.cache
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.AssemblyInfo.cs
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.csproj.CoreCompileInputs.cache
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.dll
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ref\ParameterizedConstructors.dll
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.pdb
+C:\Users\diwjaisw\source\repos\ParameterizedConstructors\ParameterizedConstructors\obj\Debug\net5.0\ParameterizedConstructors.genruntimeconfig.cache
